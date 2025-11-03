@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="OrderPaiment" targetNamespace="http://tempuri.org/OrderPaiment.xsd" xmlns:mstns="http://tempuri.org/OrderPaiment.xsd" xmlns="http://tempuri.org/OrderPaiment.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="OrderPaiment" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="OrderPaiment" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="OrderPaiment">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="FACTURE_FR" msprop:Generator_RowEvHandlerName="FACTURE_FRRowChangeEventHandler" msprop:Generator_RowDeletedName="FACTURE_FRRowDeleted" msprop:Generator_RowDeletingName="FACTURE_FRRowDeleting" msprop:Generator_RowEvArgName="FACTURE_FRRowChangeEvent" msprop:Generator_TablePropName="FACTURE_FR" msprop:Generator_RowChangedName="FACTURE_FRRowChanged" msprop:Generator_UserTableName="FACTURE_FR" msprop:Generator_RowChangingName="FACTURE_FRRowChanging" msprop:Generator_RowClassName="FACTURE_FRRow" msprop:Generator_TableClassName="FACTURE_FRDataTable" msprop:Generator_TableVarName="tableFACTURE_FR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID_FACTURE" msprop:Generator_ColumnPropNameInTable="ID_FACTUREColumn" msprop:Generator_ColumnPropNameInRow="ID_FACTURE" msprop:Generator_UserColumnName="ID_FACTURE" msprop:Generator_ColumnVarNameInTable="columnID_FACTURE" type="xs:short" minOccurs="0" />
+              <xs:element name="NUMOP" msprop:Generator_ColumnPropNameInTable="NUMOPColumn" msprop:Generator_ColumnPropNameInRow="NUMOP" msprop:Generator_UserColumnName="NUMOP" msprop:Generator_ColumnVarNameInTable="columnNUMOP" type="xs:string" minOccurs="0" />
+              <xs:element name="DATE_x0020_SAISIE" msprop:Generator_ColumnPropNameInTable="DATE_SAISIEColumn" msprop:Generator_ColumnPropNameInRow="DATE_SAISIE" msprop:Generator_UserColumnName="DATE SAISIE" msprop:Generator_ColumnVarNameInTable="columnDATE_SAISIE" type="xs:string" minOccurs="0" />
+              <xs:element name="MODE_x0020_SAISIE" msprop:Generator_ColumnPropNameInTable="MODE_SAISIEColumn" msprop:Generator_ColumnPropNameInRow="MODE_SAISIE" msprop:Generator_UserColumnName="MODE SAISIE" msprop:Generator_ColumnVarNameInTable="columnMODE_SAISIE" type="xs:string" minOccurs="0" />
+              <xs:element name="DATE_x0020_ECHEANCE" msprop:Generator_ColumnPropNameInTable="DATE_ECHEANCEColumn" msprop:Generator_ColumnPropNameInRow="DATE_ECHEANCE" msprop:Generator_UserColumnName="DATE ECHEANCE" msprop:Generator_ColumnVarNameInTable="columnDATE_ECHEANCE" type="xs:string" minOccurs="0" />
+              <xs:element name="NOM" msprop:Generator_ColumnPropNameInTable="NOMColumn" msprop:Generator_ColumnPropNameInRow="NOM" msprop:Generator_UserColumnName="NOM" msprop:Generator_ColumnVarNameInTable="columnNOM" type="xs:string" minOccurs="0" />
+              <xs:element name="CODE_x0020_FOURNISSEUR" msprop:Generator_ColumnPropNameInTable="CODE_FOURNISSEURColumn" msprop:Generator_ColumnPropNameInRow="CODE_FOURNISSEUR" msprop:Generator_UserColumnName="CODE FOURNISSEUR" msprop:Generator_ColumnVarNameInTable="columnCODE_FOURNISSEUR" type="xs:string" minOccurs="0" />
+              <xs:element name="NOMFR" msprop:Generator_ColumnPropNameInTable="NOMFRColumn" msprop:Generator_ColumnPropNameInRow="NOMFR" msprop:Generator_UserColumnName="NOMFR" msprop:Generator_ColumnVarNameInTable="columnNOMFR" type="xs:string" minOccurs="0" />
+              <xs:element name="IGE" msprop:Generator_ColumnPropNameInTable="IGEColumn" msprop:Generator_ColumnPropNameInRow="IGE" msprop:Generator_UserColumnName="IGE" msprop:Generator_ColumnVarNameInTable="columnIGE" type="xs:string" minOccurs="0" />
+              <xs:element name="IF" msprop:Generator_ColumnPropNameInTable="IFColumn" msprop:Generator_ColumnPropNameInRow="IF" msprop:Generator_UserColumnName="IF" msprop:Generator_ColumnVarNameInTable="columnIF" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DetailFacture" msprop:Generator_RowClassName="DetailFactureRow" msprop:Generator_RowEvHandlerName="DetailFactureRowChangeEventHandler" msprop:Generator_RowDeletedName="DetailFactureRowDeleted" msprop:Generator_RowDeletingName="DetailFactureRowDeleting" msprop:Generator_RowEvArgName="DetailFactureRowChangeEvent" msprop:Generator_TablePropName="DetailFacture" msprop:Generator_RowChangedName="DetailFactureRowChanged" msprop:Generator_UserTableName="DetailFacture" msprop:Generator_RowChangingName="DetailFactureRowChanging" msprop:Generator_TableClassName="DetailFactureDataTable" msprop:Generator_TableVarName="tableDetailFacture">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DATE_x0020_FACTURE" msprop:Generator_UserColumnName="DATE FACTURE" msprop:Generator_ColumnPropNameInTable="DATE_FACTUREColumn" msprop:Generator_ColumnPropNameInRow="DATE_FACTURE" msprop:Generator_ColumnVarNameInTable="columnDATE_FACTURE" type="xs:string" minOccurs="0" />
+              <xs:element name="NUM_x0020_FACTURE" msprop:Generator_UserColumnName="NUM FACTURE" msprop:Generator_ColumnPropNameInTable="NUM_FACTUREColumn" msprop:Generator_ColumnPropNameInRow="NUM_FACTURE" msprop:Generator_ColumnVarNameInTable="columnNUM_FACTURE" type="xs:string" minOccurs="0" />
+              <xs:element name="OBJET" msprop:Generator_UserColumnName="OBJET" msprop:Generator_ColumnPropNameInTable="OBJETColumn" msprop:Generator_ColumnPropNameInRow="OBJET" msprop:Generator_ColumnVarNameInTable="columnOBJET" type="xs:string" minOccurs="0" />
+              <xs:element name="MONTANT_x0020_HT" msprop:Generator_UserColumnName="MONTANT HT" msprop:Generator_ColumnPropNameInTable="MONTANT_HTColumn" msprop:Generator_ColumnPropNameInRow="MONTANT_HT" msprop:Generator_ColumnVarNameInTable="columnMONTANT_HT" type="xs:double" minOccurs="0" />
+              <xs:element name="TAUX_x0020_TVA" msprop:Generator_UserColumnName="TAUX TVA" msprop:Generator_ColumnPropNameInTable="TAUX_TVAColumn" msprop:Generator_ColumnPropNameInRow="TAUX_TVA" msprop:Generator_ColumnVarNameInTable="columnTAUX_TVA" type="xs:string" minOccurs="0" />
+              <xs:element name="MONTANT_x0020_TTC" msprop:Generator_UserColumnName="MONTANT TTC" msprop:Generator_ColumnPropNameInTable="MONTANT_TTCColumn" msprop:Generator_ColumnPropNameInRow="MONTANT_TTC" msprop:Generator_ColumnVarNameInTable="columnMONTANT_TTC" type="xs:double" minOccurs="0" />
+              <xs:element name="TVA" msprop:Generator_UserColumnName="TVA" msprop:Generator_ColumnPropNameInTable="TVAColumn" msprop:Generator_ColumnPropNameInRow="TVA" msprop:Generator_ColumnVarNameInTable="columnTVA" type="xs:double" minOccurs="0" />
+              <xs:element name="LIGNE" msprop:Generator_UserColumnName="LIGNE" msprop:Generator_ColumnPropNameInTable="LIGNEColumn" msprop:Generator_ColumnPropNameInRow="LIGNE" msprop:Generator_ColumnVarNameInTable="columnLIGNE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

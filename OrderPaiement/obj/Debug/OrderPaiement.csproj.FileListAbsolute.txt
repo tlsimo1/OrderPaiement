@@ -1,0 +1,152 @@
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe.config
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.pdb
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.AssemblyReference.cache
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Form1.resources
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Properties.Resources.resources
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.GenerateResource.cache
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.CoreCompileInputs.cache
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.exe
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.pdb
+F:\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe.config
+F:\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe
+F:\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.pdb
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.AssemblyReference.cache
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Form1.resources
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Properties.Resources.resources
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.GenerateResource.cache
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.CoreCompileInputs.cache
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.exe
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.pdb
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Reports.Imp_FACTURE_FR.resources
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.Shared.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\stdole.dll
+F:\OrderPaiement\OrderPaiement\obj\Debug\OrderPai.95652019.Up2Date
+D:\OrderPaiement\OrderPaiement\bin\Debug\stdole.dll
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.AssemblyReference.cache
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Form1.resources
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Properties.Resources.resources
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Reports.Imp_FACTURE_FR.resources
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.GenerateResource.cache
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.CoreCompileInputs.cache
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.exe
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.pdb
+D:\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe.config
+D:\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe
+D:\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.pdb
+D:\OrderPaiement\OrderPaiement\obj\Debug\OrderPai.95652019.Up2Date
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.Shared.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.Parser.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\DocumentFormat.OpenXml.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\ExcelNumberFormat.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\RBush.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\SixLabors.Fonts.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\System.Buffers.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\System.Memory.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\System.Numerics.Vectors.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.pdb
+F:\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.Parser.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\DocumentFormat.OpenXml.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\ExcelNumberFormat.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\RBush.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\SixLabors.Fonts.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\System.Buffers.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\System.Memory.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\System.Numerics.Vectors.xml
+F:\OrderPaiement\OrderPaiement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe.config
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.pdb
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.Parser.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\ExcelNumberFormat.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\RBush.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\SixLabors.Fonts.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\System.Buffers.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\System.Memory.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\stdole.dll
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.pdb
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\ClosedXML.Parser.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\ExcelNumberFormat.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\RBush.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\SixLabors.Fonts.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\System.Buffers.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\System.Memory.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.AssemblyReference.cache
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Form1.resources
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Properties.Resources.resources
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.Reports.Imp_FACTURE_FR.resources
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.GenerateResource.cache
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.csproj.CoreCompileInputs.cache
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPai.95652019.Up2Date
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.exe
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.pdb
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.exe.manifest
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\bin\Debug\OrderPaiement.application
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.TrustInfo.xml
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.exe.manifest
+C:\Users\m.talssi\OneDrive - DIMATIT\Bureau\Facture\OrderPaiement\OrderPaiement\obj\Debug\OrderPaiement.application
